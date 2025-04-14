@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/OIP.-7t41Yl9zh6wj3qZjT8B7QHaE8?w=295&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+![MasterHead](https://th.bing.com/th/id/R.b6b5a3a73f568bd1f2b588feb93cd02a?rik=d0gt%2bmbw7VaQOw&riu=http%3a%2f%2fwww.favouriteblog.com%2fwp-content%2fuploads%2f2017%2f07%2fTypes-of-Learning.png&ehk=z%2btK2BpOxRNtB3u4Gis9bn3dIkKxuVwcqmENF9cGlx0%3d&risl=&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Santhosh Thirunagaru</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhu02035&label=Profile%20views&color=0e75b6&style=flat" alt="santhu02035" /> </p>
 
