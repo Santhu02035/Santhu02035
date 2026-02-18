@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhu02035" alt="santhu02035" /></a> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **NLP, DSA, DL**
+- 🌱 I’m currently learning **FastAPI, DSA, Backend**
 
-- 💬 Ask me about **SQL, Python, OOPS, HTML,OS, CSS, JS**
+- 💬 Ask me about **SQL, ML, Deep Learning Algorithms, Python, OOPS, OS, JS**
 
 - 📫 How to reach me **santhoshthirunagaru@gmail.com**
 
